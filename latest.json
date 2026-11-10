@@ -1,11 +1,11 @@
 {
-  "version": "1.0.5",
-  "tag": "v1.0.5",
-  "generated_at": "2026-11-10T11:55:18.429Z",
-  "x86_64_file": "voxy-linux-x86_64-1.0.5",
-  "x86_64_sha256": "a09664d98f0ded84e5c9e3c3a85f836ab136c9f8f02e7cd8dbd288615050fc38",
+  "version": "1.0.6",
+  "tag": "v1.0.6",
+  "generated_at": "2026-11-10T13:05:08.787Z",
+  "x86_64_file": "voxy-linux-x86_64-1.0.6",
+  "x86_64_sha256": "e2ae61cd85e8126947cf07d39e1c43704e02eb892b3a70a65aa6c590cadb0caa",
   "x86_64_size": 9889800,
-  "aarch64_file": "voxy-linux-aarch64-1.0.5",
-  "aarch64_sha256": "933236e638096713c3d3366f0681de406976733b7b2b873ff80b0e247a41e8ce",
+  "aarch64_file": "voxy-linux-aarch64-1.0.6",
+  "aarch64_sha256": "d2f2d2c7090bb76bc7a6a58cb8a19079bebeae6464cc979f1d3d851fd7602e98",
   "aarch64_size": 9181000
 }
