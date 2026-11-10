@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "tag": "v1.0.0",
+  "generated_at": "2026-11-10T07:29:31.232Z",
+  "x86_64_file": "voxy-linux-x86_64-1.0.0",
+  "x86_64_sha256": "ff72c27e955b2ddab407134329454a179de479b5e6dd08489e7b3030bb5451bd",
+  "x86_64_size": 5101576,
+  "aarch64_file": "voxy-linux-aarch64-1.0.0",
+  "aarch64_sha256": "14c28de2370dc91e3f09a9fe116e5e684da2ec4c16361af28b57e34bcc94eb23",
+  "aarch64_size": 4331336
+}
